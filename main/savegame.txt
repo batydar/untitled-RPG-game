@@ -1,2 +1,4 @@
-kullaniciadi=Batydar
-para=1000
+kullaniciadi=Baslangic
+para=2000
+enerji=30
+hikaye=0
